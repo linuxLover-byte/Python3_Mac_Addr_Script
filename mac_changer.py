@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+#Note:Run command 'sudo su' > [your password]
+#Locate the script and type the command python3 mac_changer.py
+
 import subprocess
 
 mac = input('Enter a new MAC address :>  ')
