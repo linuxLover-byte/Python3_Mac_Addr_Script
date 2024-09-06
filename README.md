@@ -48,7 +48,6 @@ This repository contains two Python 3 scripts for changing the MAC address of ne
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
