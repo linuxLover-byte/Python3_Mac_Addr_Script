@@ -46,10 +46,3 @@ This repository contains two Python 3 scripts for changing the MAC address of ne
 - Not all network adapters support MAC address changes. If you encounter issues, check your adapter's documentation.
 - The MAC address should be in the correct format (e.g., `XX-XX-XX-XX-XX-XX` for Windows and `XX:XX:XX:XX:XX:XX` for Linux).
 
-## License
-
-
-## Acknowledgments
-
-- Thanks to the contributors and support of Mobile Dev Group class 44B3.
-```
